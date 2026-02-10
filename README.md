@@ -40,5 +40,5 @@ A heartfelt thank you to:
 - Amazon Web Services (AWS)
 for creating such a competitive, impactful, and enriching platform for developers and innovators across India.
 
-📸 Photos / Certificates
+### 📸 Certificates
 ![Cerificate](./images/iitbombay-cerificate.jpg)
