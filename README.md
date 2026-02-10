@@ -41,4 +41,4 @@ A heartfelt thank you to:
 for creating such a competitive, impactful, and enriching platform for developers and innovators across India.
 
 📸 Photos / Certificates
-
+![Cerificate](./images/iitbombay-cerificate.jpg)
